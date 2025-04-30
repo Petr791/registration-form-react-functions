@@ -1,0 +1,38 @@
+.message-wrapper {
+    padding: 5px 10px 5px 10px;
+    height: 30px;
+}
+
+.message {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.message--green {
+    color: #018134;
+}
+
+.message--red {
+    color: #b90000;
+}
+
+@media (max-width: 1020px) {}
+
+@media (max-width: 991px) {}
+
+@media (max-width: 767px) {}
+
+@media (max-width: 565px) {
+    .message-wrapper {
+        height: 25px;
+    }
+    .message {
+        /*    font-size: 10px;
+        line-height: 13px; */
+    }
+}
+
+@media (max-width: 450px) {}
+
+@media (max-width: 350px) {}

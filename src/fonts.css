@@ -1,0 +1,30 @@
+@font-face {
+    font-weight: 300;
+    font-style: italic;
+    font-family: FiraCode-local;
+    src: url("./assets/fonts/FiraCode-Light.ttf");
+}
+
+@font-face {
+    font-weight: 400;
+    font-family: FiraCode-local;
+    src: url("./assets/fonts/FiraCode-Regular.ttf");
+}
+
+@font-face {
+    font-weight: 500;
+    font-family: FiraCode-local;
+    src: url("./assets/fonts/FiraCode-Medium.ttf");
+}
+
+@font-face {
+    font-weight: 600;
+    font-family: FiraCode-local;
+    src: url("./assets/fonts/FiraCode-SemiBold.ttf");
+}
+
+@font-face {
+    font-weight: 700;
+    font-family: FiraCode-local;
+    src: url("./assets/fonts/FiraCode-Bold.ttf");
+}
